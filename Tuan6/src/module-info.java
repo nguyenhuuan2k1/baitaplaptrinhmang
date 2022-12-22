@@ -1,0 +1,2 @@
+module Tuan6 {
+}

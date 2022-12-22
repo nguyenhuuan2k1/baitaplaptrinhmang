@@ -1,0 +1,3 @@
+Lấy thông tin 1 sản phẩm: https://tiki.vn/api/v2/products/169479395 (thay 169479395 bằng mã sản phẩm cần tra).
+Lấy reviews 1 sản phẩm: https://tiki.vn/api/v2/reviews?limit=5&include=comments,contribute_info,attribute_vote_summary&sort=score%7Cdesc,id%7Cdesc,stars%7Call&page=1&product_id=169479395 (thay 169479395 bằng mã sản phẩm cần tra).
+Lấy danh sách tất cả sản phẩm trong 1 danh mục: https://tiki.vn/api/personalish/v1/blocks/listings?limit=40&category=2665&page=1&urlKey=man-hinh-may-tinh (Link API ví dụ của Danh mục sản phẩm https://tiki.vn/man-hinh-may-tinh/c2665)
